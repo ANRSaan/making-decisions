@@ -195,8 +195,8 @@ else{
 if (changeMyMind !== true)
 {
   changeMyMind = true
-  console.log(changeMyMind)
 }
+console.log(changeMyMind)
 
 ////////// ADVANCED PROBLEMS //////////
 
