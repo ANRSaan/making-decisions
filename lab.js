@@ -139,10 +139,9 @@ for (let i = 1; i <= 10; i++)
 
 //CODE HERE
 
-for (j = 10, i =0; i < 10; i++)
+for (i =10; i >=0 ; i--)
 {
-  console.log(j)
-  j--
+  console.log(i)
 }
 
 ////////// PROBLEM 8 //////////
