@@ -111,10 +111,11 @@ else if (temperature > 60 && temperature < 80 && rain === false)
 
 //CODE HERE
 
-for (let i = 1; i <= 10; i++)
+for (let i = 0; i >=10; i++)
 {
   console.log("hello")
 }
+
 ////////// PROBLEM 6 //////////
 
 /*
@@ -124,7 +125,7 @@ for (let i = 1; i <= 10; i++)
 
 //CODE HERE
 
-for (let i = 1; i <=10; i++)
+for (let i = 1; i <= 10; i++)
 {
   console.log(i)
 }
@@ -138,7 +139,7 @@ for (let i = 1; i <=10; i++)
 
 //CODE HERE
 
-for (j = 10, i =1; i <= 10; i++)
+for (j = 10, i =0; i < 10; i++)
 {
   console.log(j)
   j--
